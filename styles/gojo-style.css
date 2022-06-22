@@ -1,0 +1,40 @@
+main {
+    width: 750px;
+    margin: 250px auto 50px auto;
+    /* padding: 125px; */
+    border: 5px solid white;
+    background-color: black;
+}
+
+img {
+    border: 5px dashed rgb(118, 57, 57);
+    margin: -110px auto 50px auto;
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(121, 3, 141);
+}
+
+p {
+    color: rgb(126, 197, 202);
+}
+
+a {
+    color: rgb(142, 155, 221);
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+}
+
+#desc-gojo {
+    color: rgb(227, 32, 48);
+    font-weight: bold;
+    font-size: 30px;
+}
+
+span {
+    color: rgb(255, 76, 91);
+}
